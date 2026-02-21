@@ -4,7 +4,9 @@ A clean, semantic HTML-based curriculum vitae showcasing my career history, skil
 
 ## 🔗 Live URL
 
-**https://cv.dharmendraprajapati.in**
+https://roadmap.sh/projects/single-page-cv
+
+https://cv.dharmendraprajapati.in
 
 ## 📋 Project Overview
 
